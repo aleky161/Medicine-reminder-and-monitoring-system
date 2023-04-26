@@ -1,0 +1,3 @@
+twilio account
+a working phone number
+python interpreter/ debugger
